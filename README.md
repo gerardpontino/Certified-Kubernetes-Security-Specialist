@@ -1,3 +1,4 @@
 # Certified-Kubernetes-Security-Specialist
-Tips on how to prepare for the Certified Kubernetes Security (CKS) Specialist exam
-(https://user-images.githubusercontent.com/46586312/228611189-b46fc56e-222a-452d-851e-094f9cae0de4.png)
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/46586312/228611431-70b2a3ad-5e7c-4bec-9a55-3890db4ac67b.png" alt="Material Bread logo">
+</p>
