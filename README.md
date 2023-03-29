@@ -14,3 +14,9 @@ As someone who has taken the CKS exam, I recommend reviewing the exam blueprint 
 Lastly, time management is key during the exam. Make sure to allocate enough time for each question and don't spend too much time on any one question. If you're unsure about a question, flag it and come back to it later.
 
 Overall, with the right resources and preparation, the CKS exam can be successfully passed. Good luck!
+
+# What I used to review:
+- [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
+- [Killercoda's Interactive Test Simulators](https://killercoda.com/killer-shell-cks)
+- [Killer.sh](https://killer.sh/cks)
+
