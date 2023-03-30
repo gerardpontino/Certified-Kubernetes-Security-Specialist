@@ -41,3 +41,8 @@ Killercoda really have helpful test scenarios that can be used as well for the C
 When you buy a voucher for the CKS exam, it comes with 2 killer.sh sessions. killer.sh will give an exam simulator that is similar to what you will be having during the actual exam. It is useful to familiarize yourself on how you would setup your terminal window, browser, etc..
 
 I would say killer.sh got tougher questions than the actual exam. This is a best practice to know if you are ready to take the exam or not. You may use it for 36 hours with unlimited resets. I've practiced all the questions 2-3 times until I got a "fair" result. You will have an option to see the solutions as well, to give you an idea how the questions are answered.
+
+# Helpful Resources
+
+1. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
+
