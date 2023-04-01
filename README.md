@@ -45,6 +45,7 @@ I would say killer.sh has tougher questions than the actual exam. This is a best
 # Helpful Resources
 
 1. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
+2. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
 
 # Topics
 ## Cluster Setup 10%
@@ -86,3 +87,5 @@ I would say killer.sh has tougher questions than the actual exam. This is a best
 > - Perform deep analytical investigation and identification of bad actors within environment
 > - Ensure immutability of containers at runtime
 > - Use Audit Logs to monitor access
+
+
