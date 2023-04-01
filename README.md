@@ -88,4 +88,4 @@ I would say killer.sh has tougher questions than the actual exam. This is a best
 > - Ensure immutability of containers at runtime
 > - Use Audit Logs to monitor access
 
-
+# Exam Environment
