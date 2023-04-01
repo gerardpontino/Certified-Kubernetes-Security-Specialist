@@ -15,7 +15,7 @@ Overall, with the right resources and preparation, the CKS exam can be successfu
 
 I will share some tips that may help prepare for your CKS exam.
 
-# What I used to review:
+# What I used to review
 1. [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
   
 Kodekloud's Certified Kubernetes Security Specialist (CKS) course is a comprehensive learning resource for individuals who want to prepare for the CKS certification exam. The course covers a wide range of topics related to Kubernetes security, including cluster hardening, access management, network security, and secure container image management.
@@ -38,11 +38,25 @@ Killercoda really have helpful test scenarios that can be used as well for the C
 
 3. [Killer.sh](https://killer.sh/cks)
 
-When you buy a voucher for the CKS exam, it comes with 2 killer.sh sessions. killer.sh will give an exam simulator that is similar to what you will be having during the actual exam. It is useful to familiarize yourself on how you would setup your terminal window, browser, etc..
+When you buy a voucher for the CKS exam, it comes with 2 killer.sh sessions. killer.sh will give an exam simulator that is similar to what you will be having on the actual exam. It is very useful to help familiarize yourself on the exam environment, like to setup your terminal window, browser, etc..
 
-I would say killer.sh got tougher questions than the actual exam. This is a best practice to know if you are ready to take the exam or not. You may use it for 36 hours with unlimited resets. I've practiced all the questions 2-3 times until I got a "fair" result. You will have an option to see the solutions as well, to give you an idea how the questions are answered.
+I would say killer.sh has tougher questions than the actual exam. This is a best practice to know if you are ready to take the exam or not. You may use it for 36 hours with unlimited resets. I've practiced all the questions 2-3 times until I got a "fair" result. You will have an option to see the solutions as well, to give you an idea how the questions are answered.
 
 # Helpful Resources
 
 1. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
 
+# Topics
+## Cluster Setup 10%
+> - Use Network security policies to restrict cluster level access
+> - Use CIS benchmark to review the security configuration of Kubernetes components (etcd, kubelet, kubedns, kubeapi)
+> - Properly set up Ingress objects with security control
+> - Protect node metadata and endpoints
+> - Minimize use of, and access to, GUI elements
+> - Verify platform binaries before deploying
+
+## Cluster Hardening 15%
+> - Restrict access to Kubernetes API
+> - Use Role Based Access Controls to minimize exposure
+> - Exercise caution in using service accounts e.g. disable defaults, minimize permissions on newly created ones
+> - Update Kubernetes frequently
