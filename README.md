@@ -121,3 +121,5 @@ This includes all available language translations of these pages (e.g. https://f
 Documentation https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
 
 # My Study Guide
+
+*updating the blog in progress*
