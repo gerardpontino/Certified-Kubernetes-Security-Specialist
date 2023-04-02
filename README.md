@@ -3,6 +3,8 @@
     <img width="200" src="https://user-images.githubusercontent.com/46586312/228611431-70b2a3ad-5e7c-4bec-9a55-3890db4ac67b.png" alt="Material Bread logo">
 </p>
 
+
+
 The CKS certification is designed to validate an individual's understanding of Kubernetes security principles and best practices, as well as the ability to secure Kubernetes clusters and workloads. CKS certified professionals are expected to have a deep understanding of Kubernetes security concepts, network security, access management, and secure container image management.
 
 Having a CKS certification can help individuals stand out in the job market and demonstrate their expertise to potential employers. It can also give them the confidence and credibility to perform Kubernetes security assessments and audits for organizations. Additionally, organizations may choose to hire CKS certified professionals to ensure that their Kubernetes environments are secure and compliant with industry standards.
@@ -15,8 +17,16 @@ Overall, with the right resources and preparation, the CKS exam can be successfu
 
 I will share some tips that may help prepare for your CKS exam.
 
-# What I used to review
-1. [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
+## Contents
+1. [What I used to review](#whatiused)
+2. [Helpful Resources](#helpfulresources)
+3. [Topics](#topics)
+4. [Exam Environment](#examenvironment)
+5. [Allowed documentations during the exam](#alloweddocs) 
+6. [My Study Guide](#mystudyguide)
+
+# What I used to review <a name="whatiused"></a>
+ 1. [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
   
     Kodekloud's Certified Kubernetes Security Specialist (CKS) course is a comprehensive learning resource for individuals who want to prepare for the CKS certification exam. The course covers a wide range of topics related to Kubernetes security, including cluster hardening, access management, network security, and secure container image management.
 
@@ -47,13 +57,13 @@ I will share some tips that may help prepare for your CKS exam.
 
     Overall, killer.sh is a valuable resource for anyone preparing for the CKS exam, providing a realistic simulation of the exam environment and challenging questions to help you prepare for success on exam day.
 
-# Helpful Resources
+# Helpful Resources <a name="helpfulresources"></a>
 
 1. https://kubernetes.io/docs - 
 2. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
 3. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
 
-# Topics
+# Topics <a name="topics"></a>
 ### Cluster Setup 10%
 > - Use Network security policies to restrict cluster level access
 > - Use CIS benchmark to review the security configuration of Kubernetes components (etcd, kubelet, kubedns, kubeapi)
@@ -94,7 +104,7 @@ I will share some tips that may help prepare for your CKS exam.
 > - Ensure immutability of containers at runtime
 > - Use Audit Logs to monitor access
 
-# Exam Environment
+# Exam Environment <a name="examenvironment"></a>
 
 ### Practice the exam environment: 
 If you have access to killer.sh exam simulator, take some time to familiarize yourself with it. This can help you feel more comfortable and confident during the actual exam.
@@ -106,7 +116,7 @@ https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-user-in
 ![Alt text](LF%20Remote%20Desktop%20070722d.png)
 *(image from Linux Foundation)*
 
-# Allowed documentations during the exam
+# Allowed documentations during the exam <a name="alloweddocs"></a>
 **Kubernetes Documentation:**
 https://kubernetes.io/docs/ and their subdomains
 https://kubernetes.io/blog/ and their subdomains
@@ -120,6 +130,6 @@ This includes all available language translations of these pages (e.g. https://f
 **App Armor:**
 Documentation https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
 
-# My Study Guide
+# My Study Guide <a name="mystudyguide"></a>
 
 *updating the blog in progress*
