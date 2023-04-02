@@ -19,11 +19,11 @@ I will share some tips that may help prepare for your CKS exam.
 
 ## Contents
 1. [What I used to review](#whatiused)
-2. [Helpful Resources](#helpfulresources)
-3. [Topics](#topics)
-4. [Exam Environment](#examenvironment)
-5. [Allowed documentations during the exam](#alloweddocs) 
-6. [My Study Guide](#mystudyguide)
+2. [Topics](#topics)
+3. [Exam Environment](#examenvironment)
+4. [Allowed documentations during the exam](#alloweddocs) 
+5. [My Study Guide](#mystudyguide)
+6. [Helpful Resources](#helpfulresources)
 
 # What I used to review <a name="whatiused"></a>
  1. [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
@@ -57,16 +57,7 @@ I will share some tips that may help prepare for your CKS exam.
 
     Overall, killer.sh is a valuable resource for anyone preparing for the CKS exam, providing a realistic simulation of the exam environment and challenging questions to help you prepare for success on exam day.
 
-# Helpful Resources <a name="helpfulresources"></a>
 
-1. https://github.com/fireflycons/tips-for-CKA-CKAD-CKS#am-i-ready
-2. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
-3. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
-4. Youtube tutorials:
-    - https://www.youtube.com/watch?v=nQ9fK-AW460
-    - https://www.youtube.com/watch?v=W1eiMWGZwKo&t=1904s
-    - https://www.youtube.com/watch?v=7eH7vfT0axA, https://www.youtube.com/watch?v=qNpmRJ9VfCQ, https://www.youtube.com/watch?v=9rHYCCnlOFw
-  
 
 # Topics <a name="topics"></a>
 ### Cluster Setup 10%
@@ -138,3 +129,14 @@ Documentation https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
 # My Study Guide <a name="mystudyguide"></a>
 
 *updating the blog in progress*
+
+# Helpful Resources <a name="helpfulresources"></a>
+
+1. https://github.com/fireflycons/tips-for-CKA-CKAD-CKS#am-i-ready
+2. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
+3. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
+4. Youtube tutorials:
+    - https://www.youtube.com/watch?v=nQ9fK-AW460
+    - https://www.youtube.com/watch?v=W1eiMWGZwKo&t=1904s
+    - https://www.youtube.com/watch?v=7eH7vfT0axA, https://www.youtube.com/watch?v=qNpmRJ9VfCQ, https://www.youtube.com/watch?v=9rHYCCnlOFw
+  
