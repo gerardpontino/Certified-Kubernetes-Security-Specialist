@@ -90,5 +90,13 @@ I would say killer.sh has tougher questions than the actual exam. This is a best
 
 # Exam Environment
 
-Linux Foundation has prepared some sample UI of the exam environment and given some tips on this link: 
+### Practice the exam environment: 
+If you have access to killer.sh exam simulator, take some time to familiarize yourself with it. This can help you feel more comfortable and confident during the actual exam.
+
+Linux Foundation prepared some sample UI of the exam environment and given some tips on this link: 
 https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-user-interface/examui-performance-based-exams
+
+### Quick glance on it looks like: 
+![Alt text](LF%20Remote%20Desktop%20070722d.png)
+*(image from Linux Foundation)*
+
