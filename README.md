@@ -18,34 +18,40 @@ I will share some tips that may help prepare for your CKS exam.
 # What I used to review
 1. [Kodekloud's CKS Course](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
   
-Kodekloud's Certified Kubernetes Security Specialist (CKS) course is a comprehensive learning resource for individuals who want to prepare for the CKS certification exam. The course covers a wide range of topics related to Kubernetes security, including cluster hardening, access management, network security, and secure container image management.
+    Kodekloud's Certified Kubernetes Security Specialist (CKS) course is a comprehensive learning resource for individuals who want to prepare for the CKS certification exam. The course covers a wide range of topics related to Kubernetes security, including cluster hardening, access management, network security, and secure container image management.
 
-The Kodekloud CKS course is helpful because it provides a structured learning path and hands-on exercises that enable learners to gain a practical understanding of Kubernetes security concepts. The course includes video lectures, quizzes, and practical exercises that simulate real-world scenarios, which can help learners develop the skills needed to secure Kubernetes environments.
+    The Kodekloud CKS course is helpful because it provides a structured learning path and hands-on exercises that enable learners to gain a practical understanding of Kubernetes security concepts. The course includes video lectures, quizzes, and practical exercises that simulate real-world scenarios, which can help learners develop the skills needed to secure Kubernetes environments.
 
-Here are some strategies I followed to effectively learn the course:
+    ### Here are some improved strategies I followed to effectively learn the course:
 
-- **Plan a study schedule:** I have prepared for 1.5 months and have spent 2 hours daily _(on an average)_ to study. 
+    **Create a study schedule:** I created a detailed study schedule that spanned 1.5 months, dedicating an average of 2 hours per day to study. I made sure to stick to the schedule as closely as possible to ensure that I covered all the material in a timely and efficient manner.
 
-- **Take notes:** I find taking notes helpful while watching the video lectures. It helped me retain information and better understand the concepts.
+    **Take detailed notes:** While watching the video lectures, I took detailed notes to help me retain information and better understand the concepts. I made sure to include examples and explanations to ensure that I fully understood the material.
 
-- **Practice the lab exercises and mock exams:**  I practiced the lab exercises twice and took the mock exams 3-4 times until I felt confident about the topic. If I couldn't answer certain questions, I would go back to the topic or do further research to better understand it. The mock exams don't come with answers that you can reference with, but I found this [Github link](https://github.com/kodekloudhub/certified-kubernetes-security-specialist-cks-course/tree/main/docs/08-Mock-Exams) that shares how the questions can be answered. It will help give you an idea on how to solve the questions.
+    **Practice lab exercises and mock exams:** To reinforce my learning, I practiced the lab exercises multiple times and took the mock exams 3-4 times until I felt confident with the material. If I couldn't answer certain questions, I went back to the topic or did further research to better understand it. Additionally, I found a [Github link](https://github.com/kodekloudhub/certified-kubernetes-security-specialist-cks-course/tree/main/docs/08-Mock-Exams) that shared how the questions could be answered, which helped me gain a better understanding of how to solve the questions.
 
-- **Ask questions in Kodekloud's slack community:** Kodekloud has a great [slack community](https://join.slack.com/t/kodekloud/shared_invite/zt-wm5xso39-L1xVR2yWdy9uPg_jk4wRwA) where you can ask questions, share your knowledge, and discuss concepts with other learners. 
+    **Engage in the Kodekloud slack community:** I joined [Kodekloud's slack community](https://join.slack.com/t/kodekloud/shared_invite/zt-wm5xso39-L1xVR2yWdy9uPg_jk4wRwA) , where I could ask questions, share my knowledge, and discuss concepts with other learners. The community was a great resource for me, as I was able to receive feedback from other learners and learn from their experiences as well.
+
+    By following these strategies, I was able to effectively learn the course material and gain a solid understanding of the concepts.
+
 
 2. [Killercoda's Interactive Test Simulators](https://killercoda.com/killer-shell-cks)
 
-Killercoda really have helpful test scenarios that can be used as well for the CKS preparation. They have around 50+ scenarios available that you may use to practice and would give you new set of questions that won't be available in Kodekloud's. I've practiced all the scenarios 2-3 times.
+    One helpful resource I used to prepare for the CKS exam was the test scenarios provided by Killercoda. With over 50 scenarios available, practicing them provided me with a new set of questions that weren't available in Kodekloud's resources. I practiced all the scenarios 2-3 times to reinforce my understanding of the material and ensure I was fully prepared for the exam. The scenarios were especially helpful as they provided me with real-world examples and challenges that helped me develop my problem-solving skills and better understand the practical applications of the concepts I had learned. Overall, I found Killercoda's test scenarios to be an invaluable resource for CKS exam preparation.
 
 3. [Killer.sh](https://killer.sh/cks)
 
-When you buy a voucher for the CKS exam, it comes with 2 killer.sh sessions. killer.sh will give an exam simulator that is similar to what you will be having on the actual exam. It is very useful to help familiarize yourself on the exam environment, like to setup your terminal window, browser, etc..
+    When you purchase a voucher for the CKS exam, it comes with 2 killer.sh sessions. These sessions provide an exam simulator that closely mirrors the actual exam environment. This tool is incredibly useful for familiarizing yourself with the exam format and ensuring you are comfortable with the tools and settings, such as setting up your terminal window and browser.
 
-I would say killer.sh has tougher questions than the actual exam. This is a best practice to know if you are ready to take the exam or not. You may use it for 36 hours with unlimited resets. I've practiced all the questions 2-3 times until I got a "fair" result. You will have an option to see the solutions as well, to give you an idea how the questions are answered.
+    I found that the questions on killer.sh were slightly more challenging than those on the actual exam, making it a great tool to gauge your readiness for the exam. With unlimited resets and a 36-hour access window, I practiced all the questions 2-3 times until I achieved a "fair" result. Additionally, the tool provides solutions to the questions, which gave me a better understanding of how to approach and solve similar problems.
+
+    Overall, killer.sh is a valuable resource for anyone preparing for the CKS exam, providing a realistic simulation of the exam environment and challenging questions to help you prepare for success on exam day.
 
 # Helpful Resources
 
-1. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
-2. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
+1. https://kubernetes.io/docs - 
+2. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
+3. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
 
 # Topics
 ### Cluster Setup 10%
@@ -100,3 +106,18 @@ https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2/exam-user-in
 ![Alt text](LF%20Remote%20Desktop%20070722d.png)
 *(image from Linux Foundation)*
 
+# Allowed documentations during the exam
+**Kubernetes Documentation:**
+https://kubernetes.io/docs/ and their subdomains
+https://kubernetes.io/blog/ and their subdomains
+This includes all available language translations of these pages (e.g. https://kubernetes.io/zh/docs/)
+
+**Trivy documentation** https://aquasecurity.github.io/trivy/
+
+**Falco documentation** https://falco.org/docs/
+This includes all available language translations of these pages (e.g. https://falco.org/zh/docs/)
+
+**App Armor:**
+Documentation https://gitlab.com/apparmor/apparmor/-/wikis/Documentation
+
+# My Study Guide
