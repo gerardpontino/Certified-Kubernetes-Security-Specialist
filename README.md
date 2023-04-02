@@ -59,7 +59,7 @@ I will share some tips that may help prepare for your CKS exam.
 
 # Helpful Resources <a name="helpfulresources"></a>
 
-1. [https://kubernetes.io/docs - ](https://github.com/fireflycons/tips-for-CKA-CKAD-CKS#am-i-ready)
+1. https://github.com/fireflycons/tips-for-CKA-CKAD-CKS#am-i-ready
 2. https://orca.tufin.io/netpol/ - You can get your network policies explained by pasting it into this tool.
 3. https://vim.rtorr.com/ - Getting yourself familiarized with the vi shortcuts would help you make change the configurations faster.
 4. Youtube tutorials:
